@@ -1,10 +1,37 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=What+is+cybersecurity+?)](https://git.io/typing-svg)  
+______________________________________________________________________________
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Phishing+!)](https://git.io/typing-svg)  
+______________________________________________________________________________
+______________________________________________________________________________
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regulation(EU)+!)](https://git.io/typing-svg)  
+_____________________________________________________________________________
+_______________________________________________________________________________
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Защита???+персональных+данных+!)](https://git.io/typing-svg) 
+_______________________________________________________________________________
+____________________________________________________________________________
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+hoster.+by+!)](https://git.io/typing-svg) 
+_____________________________________________________________________________
+______________________________________________________________________________
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+АЛЬФА+БАНК+!)](https://git.io/typing-svg)  
+____________________________________________________________________________________
+_________________________________________________________________________________
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SOC+!)](https://git.io/typing-svg) 
+_______________________________________________________________________________
+___________________________________________________________________________
+
 ![siem](https://github.com/user-attachments/assets/6487fd32-1d3a-49ec-bd8f-3ccab87f7675)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Alarm+.+.+.+Phishing+!)](https://git.io/typing-svg) 
 ![user01](https://github.com/user-attachments/assets/13c1cd99-3684-48eb-b17f-4761ec3ad91a)
+_______________________________________________________________________
+
+![02](https://github.com/user-attachments/assets/70d2e67e-26c8-428b-9f0b-74dca0fdee17)
 
 ___________________________________________________________________
 ________________________________________________________________
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regulation(EU)+!)](https://git.io/typing-svg)  
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Deliberate+User+error+!)](https://git.io/typing-svg)  
 ![01](https://github.com/user-attachments/assets/7fc8b7fa-6831-4086-a1a5-f144f24bc624)
 ![02](https://github.com/user-attachments/assets/df5a48ac-d8d8-4aa8-995a-1880afcb3bd6)
@@ -45,6 +72,7 @@ ________________________________________________________________________________
 ________________________________________________________________
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Deliberate+User+error+!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regulation(EU)+!)](https://git.io/typing-svg) 
 
 ![01](https://github.com/user-attachments/assets/f9b24ea7-0fad-496c-9f4f-e666ee639639)
 ![02](https://github.com/user-attachments/assets/92ea5a5b-7f39-46be-a6c3-250ec2c6be56)
@@ -60,6 +88,36 @@ ________________________________________________________________
 ![12](https://github.com/user-attachments/assets/1c0b0780-9814-4d05-a7b3-a7555993765d)
 ![13](https://github.com/user-attachments/assets/1d049988-5007-4b7b-a3f0-bf94fa64c098)
 ![14](https://github.com/user-attachments/assets/8d24fb5e-314c-4933-b651-e74aa6763874)
+
+___________________________________________________________________________________
+
+________________________________________________________________________________
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+hoster.+by)](https://git.io/typing-svg)  
+
+
+![hosterby](https://github.com/user-attachments/assets/f37ca46c-a6bc-43e7-8275-93f00d647612)
+
+
+![01](https://github.com/user-attachments/assets/3590856a-d9f6-49e6-8b86-93844075a0ae)
+![02](https://github.com/user-attachments/assets/d9bf6455-3c55-46fc-975b-b60aedea0bbb)
+![03](https://github.com/user-attachments/assets/92b22ed2-dda7-45c7-96b2-6a086ac9035f)
+_______________________________________________________________________
+_______________________________________________________________________
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+АЛЬФА+БАНК+!)](https://git.io/typing-svg) 
+
+
+![Банк](https://github.com/user-attachments/assets/eb825e28-3a7f-41f9-902d-705a9f775669)
+
+![01](https://github.com/user-attachments/assets/b47ee339-f940-4cc4-aeb9-5a08d094e31f)
+
+![02](https://github.com/user-attachments/assets/5008cbdf-d509-40b0-a1f0-336f910878a0)
+
+
+____________________________________________________________________
+_____________________________________________________________________
+
 
 
 
