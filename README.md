@@ -7,3 +7,14 @@
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
+# Paste Your Document In Here
+
+## And a table of contents
+
+will be generated
+
+## On the right
+
+side of this page.
+
+
