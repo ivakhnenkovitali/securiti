@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=What+is+cybersecurity+?)](https://git.io/typing-svg)  
 ![siem](https://github.com/user-attachments/assets/6487fd32-1d3a-49ec-bd8f-3ccab87f7675)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Alarm)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Alarm+.+.+.+Phishing)](https://git.io/typing-svg) 
 ![user](https://github.com/user-attachments/assets/b2773a6d-ba43-4e32-8180-b72afe628dd1)
 
 
