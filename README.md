@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Alarm+.+.+.+Phishing+!)](https://git.io/typing-svg) 
 ![user01](https://github.com/user-attachments/assets/13c1cd99-3684-48eb-b17f-4761ec3ad91a)
 
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=С)](https://git.io/typing-svg)
 
 
 - [Paste Your Document In Here](#paste-your-document-in-here)
