@@ -2229,25 +2229,9 @@ URL-адрес www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.comдемонстр
 Анализируя эти аспекты отчета сканирования Nmap, вы можете определить потенциальные проблемы безопасности и предпринять соответствующие шаги для снижения рисков. Если вы предоставите конкретные данные из фактического отчета сканирования Nmap, может быть предложен более целенаправленный анализ.
 _________________________________________________________________
 
+![4  Вы обнаружили уязвимость CVE-2021-41773 на вашем web сервере](https://github.com/user-attachments/assets/9d1e667e-b153-4259-91bf-d148adf9f0fa)
 
 
 
-
-- [Paste Your Document In Here](#paste-your-document-in-here)
-  * [And a table of contents](#and-a-table-of-contents)
-  * [On the right](#on-the-right)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-# Paste Your Document In Here
-
-## And a table of contents
-
-will be generated
-
-## On the right
-
-side of this page.
 
 
