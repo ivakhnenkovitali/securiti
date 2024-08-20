@@ -1604,6 +1604,8 @@ ____________________________________
 _______________________________________________________________
 ⦁	What is happening according to the following events?
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=deliberate+user+error)](https://git.io/typing-svg)  
+
 ![01](https://github.com/user-attachments/assets/a7f8d9cf-a3cc-48cd-87e3-d3422ffbc019)
 
 ![02](https://github.com/user-attachments/assets/5eb8aba4-688f-4203-8058-fe3c35a11ad5)
