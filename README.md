@@ -1613,12 +1613,7 @@ ____________________________________
 
 ⦁	What can you tell about logs below? 
 
-![04](https://github.com/user-attachments/assets/795a6f6f-0077-47f0-862e-254770d0f6a5)
 
-![05](https://github.com/user-attachments/assets/124232d5-8a41-4c3c-93e8-b3769a82efa2)
-
- ![06](https://github.com/user-attachments/assets/54b785fc-a9a3-4fc0-8b6c-79f438df8f2b)
- 
 ⦁	What can you tell about this script?
 IF ($PSVersionTAbLE.PSVErsiON.MaJor-ge3) { 
  $GPF=[REF].AsSemBLY.GETTyPE('System.Management.Automation.Utils')."GETField"('cachedGroupPolicySettings','N'+'onPublic,Static');
