@@ -1601,7 +1601,7 @@ NXDOMAIN : DNS-сервер ответил «Несуществующий дом
 Запись в журнале предполагает, что устройство 10.10.160.208выполняет обратный поиск DNS для динамически сгенерированного домена с использованием алгоритма генерации домена (DGA). Ответ NXDOMAINуказывает на то, что домен не существует, что может быть частью попытки вредоносного ПО связаться с сервером управления и контроля (C2). Немедленное расследование и реагирование необходимы для подтверждения того, что устройство скомпрометировано, и для устранения любых потенциальных угроз.
 ________________________________
 ____________________________________
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Преднамеренная+ошибка+пользователя)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Преднамеренная+ошибка+пользователя+.+.+!)](https://git.io/typing-svg) 
 
 _______________________________________________________________
 ⦁	What is happening according to the following events?
@@ -1622,8 +1622,11 @@ _______________________________________________________________
 
 ![04](https://github.com/user-attachments/assets/795a6f6f-0077-47f0-862e-254770d0f6a5)
   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Deliberate+User+error+!)](https://git.io/typing-svg)  
 
-![05](https://github.com/user-attachments/assets/124232d5-8a41-4c3c-93e8-b3769a82efa2)
+![05](https://github.com/user-attachments/assets/124232d5-8a41-4c3c-93e8-b3769a82efa2)  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Deliberate+User+error+!)](https://git.io/typing-svg)  
 
 ![06](https://github.com/user-attachments/assets/54b785fc-a9a3-4fc0-8b6c-79f438df8f2b)
 
