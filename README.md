@@ -2,7 +2,7 @@
 ![siem](https://github.com/user-attachments/assets/6487fd32-1d3a-49ec-bd8f-3ccab87f7675)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Alarm+.+.+.+Phishing+!)](https://git.io/typing-svg) 
 ![user01](https://github.com/user-attachments/assets/13c1cd99-3684-48eb-b17f-4761ec3ad91a)
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SOC+Test+<Teach+Me+Skills/>)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SOC+!)](https://git.io/typing-svg)
 
 ⦁	You have security log from Firewall between DMZ and the Internet. How will you use this log for threat detection?
 
