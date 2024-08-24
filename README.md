@@ -67,7 +67,10 @@ ________________________________________________________________________________
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Deliberate+User+error+!+AUDIT+hoster.+by)](https://git.io/typing-svg)  
-[hosterby.pdf](https://github.com/user-attachments/files/16737676/hosterby.pdf)
+
+
+![hosterby](https://github.com/user-attachments/assets/f37ca46c-a6bc-43e7-8275-93f00d647612)
+
 
 ![01](https://github.com/user-attachments/assets/3590856a-d9f6-49e6-8b86-93844075a0ae)
 ![02](https://github.com/user-attachments/assets/d9bf6455-3c55-46fc-975b-b60aedea0bbb)
