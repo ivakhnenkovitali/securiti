@@ -6,6 +6,8 @@
 _____________________________________________________________________________________
 ________________________________________________________________
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Deliberate+User+error+!)](https://git.io/typing-svg)  
+
 ![01](https://github.com/user-attachments/assets/f9b24ea7-0fad-496c-9f4f-e666ee639639)
 ![02](https://github.com/user-attachments/assets/92ea5a5b-7f39-46be-a6c3-250ec2c6be56)
 ![03](https://github.com/user-attachments/assets/24920998-ac51-4419-abe3-9ca98100feb2)
