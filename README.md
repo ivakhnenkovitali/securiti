@@ -6,21 +6,6 @@
 _____________________________________________________________________________________
 ________________________________________________________________
 
-![zakon_070521_99z-изображения-0](https://github.com/user-attachments/assets/eb9e03fb-3097-4d9d-b468-67903bd9d957)
-![zakon_070521_99z-изображения-1](https://github.com/user-attachments/assets/74fb8593-21da-4e7d-98b3-f1cee7ac56b8)
-
-![zakon_070521_99z-изображения-13](https://github.com/user-attachments/assets/152434bf-5c15-4014-a0a3-0ec9956070ce)
-![zakon_070521_99z-изображения-12](https://github.com/user-attachments/assets/96390556-35c1-41ad-a872-491aae45f50c)
-![zakon_070521_99z-изображения-11](https://github.com/user-attachments/assets/08331b35-18a3-4c31-985d-c4ad4d2a51c9)
-![zakon_070521_99z-изображения-10](https://github.com/user-attachments/assets/e189cc05-a4fa-4a54-9591-c4c9302f530b)
-![zakon_070521_99z-изображения-9](https://github.com/user-attachments/assets/98da74c0-973b-4591-b9a1-24321cc5eac6)
-![zakon_070521_99z-изображения-8](https://github.com/user-attachments/assets/267d3c9a-341c-4041-989a-16a6a3651bf5)
-![zakon_070521_99z-изображения-7](https://github.com/user-attachments/assets/988b2d19-eed1-4b4b-9235-91d71f5a8529)
-![zakon_070521_99z-изображения-6](https://github.com/user-attachments/assets/b872a62c-3935-4811-a263-dadd0353e6b5)
-![zakon_070521_99z-изображения-5](https://github.com/user-attachments/assets/05796df7-54d8-423a-9ece-857dfb64f40a)
-![zakon_070521_99z-изображения-4](https://github.com/user-attachments/assets/bd4b8c46-a0fc-4078-b921-be550e6ce215)
-![zakon_070521_99z-изображения-3](https://github.com/user-attachments/assets/52f69b55-edfe-40de-95e2-7b2e33b3d5a0)
-![zakon_070521_99z-изображения-2](https://github.com/user-attachments/assets/650e43ba-0ba2-4258-97b1-7f11943afb7c)
 
 
 
