@@ -61,6 +61,33 @@ ________________________________________________________________
 ![13](https://github.com/user-attachments/assets/1d049988-5007-4b7b-a3f0-bf94fa64c098)
 ![14](https://github.com/user-attachments/assets/8d24fb5e-314c-4933-b651-e74aa6763874)
 
+___________________________________________________________________________________
+
+________________________________________________________________________________
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Deliberate+User+error+!+AUDIT+hoster.+by)](https://git.io/typing-svg)  
+[hosterby.pdf](https://github.com/user-attachments/files/16737676/hosterby.pdf)
+
+![01](https://github.com/user-attachments/assets/3590856a-d9f6-49e6-8b86-93844075a0ae)
+![02](https://github.com/user-attachments/assets/d9bf6455-3c55-46fc-975b-b60aedea0bbb)
+![03](https://github.com/user-attachments/assets/92b22ed2-dda7-45c7-96b2-6a086ac9035f)
+
+
+
+_______________________________________________________________________
+_______________________________________________________________________
+
+
+
+
+
+
+
+____________________________________________________________________
+_____________________________________________________________________
+
+
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SOC+!)](https://git.io/typing-svg)
