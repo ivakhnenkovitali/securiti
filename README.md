@@ -6,9 +6,9 @@
 _____________________________________________________________________________________
 ________________________________________________________________
 
-
-![zakon_070521_99z-изображения-1](https://github.com/user-attachments/assets/74fb8593-21da-4e7d-98b3-f1cee7ac56b8)
 ![zakon_070521_99z-изображения-0](https://github.com/user-attachments/assets/eb9e03fb-3097-4d9d-b468-67903bd9d957)
+![zakon_070521_99z-изображения-1](https://github.com/user-attachments/assets/74fb8593-21da-4e7d-98b3-f1cee7ac56b8)
+
 ![zakon_070521_99z-изображения-13](https://github.com/user-attachments/assets/152434bf-5c15-4014-a0a3-0ec9956070ce)
 ![zakon_070521_99z-изображения-12](https://github.com/user-attachments/assets/96390556-35c1-41ad-a872-491aae45f50c)
 ![zakon_070521_99z-изображения-11](https://github.com/user-attachments/assets/08331b35-18a3-4c31-985d-c4ad4d2a51c9)
