@@ -4,7 +4,7 @@ Explore the different types of threats to information and information systems, a
 _________________________________________________________________________________
 ![cyber-security-courses](https://github.com/user-attachments/assets/702a7a80-d908-4844-bc2f-ea28d97bc028)
 
-
+#F73411FF      [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#F73411FF&lines=Phishing+!)](https://git.io/typing-svg)  
 _______________________________________________________________________________
 ______________________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Phishing+!)](https://git.io/typing-svg)  
