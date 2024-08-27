@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=What+is+cybersecurity+?)](https://git.io/typing-svg)  Information security 
 Learn about the practice of protecting information by mitigating information risks, and the standards, policies, and laws that guide it.
 Explore the different types of threats to information and information systems, and the security goals to counter them.
-____________________________________________________________________________________
 _________________________________________________________________________________
-![cyber-security-courses](https://github.com/user-attachments/assets/f4948af8-742d-4b34-ae61-2e5498507de2)
+![cyber-security-courses](https://github.com/user-attachments/assets/702a7a80-d908-4844-bc2f-ea28d97bc028)
+
 
 _______________________________________________________________________________
 ______________________________________________________________________________
