@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________
 ______________________________________________________________________________
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Phishing+!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.om?color=%2336BCF7&lines=Phishing+!)](https://git.io/typing-svg)  
 ______________________________________________________________________________
 ______________________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regulation(EU)+!)](https://git.io/typing-svg)  
