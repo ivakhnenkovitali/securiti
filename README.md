@@ -3,6 +3,10 @@ Learn about the practice of protecting information by mitigating information ris
 Explore the different types of threats to information and information systems, and the security goals to counter them.
 _________________________________________________________________________________
 ![cyber-security-courses](https://github.com/user-attachments/assets/702a7a80-d908-4844-bc2f-ea28d97bc028)
+________________________________________________________________________
+______________________________________________________________________
+
+![user](https://github.com/user-attachments/assets/569b0049-a5a4-47b5-9dcb-d80ab1b83b66)
 
 _______________________________________________________________________________
 ______________________________________________________________________________
