@@ -108,17 +108,25 @@ ________________________________________________________________________________
 ![user01](https://github.com/user-attachments/assets/599ce89d-dc07-465c-b043-6ec94b338c69)
 
 ________________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+hoster.+by)](https://git.io/typing-svg)  
 
+![hosterby](https://github.com/user-attachments/assets/a5631de5-21a9-4732-ab5b-83701b90ddde)
 
-![hosterby](https://github.com/user-attachments/assets/f37ca46c-a6bc-43e7-8275-93f00d647612)
+
+![01](https://github.com/user-attachments/assets/2156a85c-b1d2-458f-ab10-f5d0ce6c16d8)
+
+![02](https://github.com/user-attachments/assets/75d0fb3b-6a8a-47be-a82e-a67fef9e9de3)
+
+![03](https://github.com/user-attachments/assets/65fc0727-6ea1-4e7a-9309-73ea43d2139f)
 
 
-![01](https://github.com/user-attachments/assets/3590856a-d9f6-49e6-8b86-93844075a0ae)
-![02](https://github.com/user-attachments/assets/d9bf6455-3c55-46fc-975b-b60aedea0bbb)
-![03](https://github.com/user-attachments/assets/92b22ed2-dda7-45c7-96b2-6a086ac9035f)
+
+
+
 _______________________________________________________________________
 _______________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+АЛЬФА+БАНК+!)](https://git.io/typing-svg) 
@@ -126,10 +134,9 @@ _______________________________________________________________________
 
 ![Банк](https://github.com/user-attachments/assets/eb825e28-3a7f-41f9-902d-705a9f775669)
 
-![01](https://github.com/user-attachments/assets/b47ee339-f940-4cc4-aeb9-5a08d094e31f)
+![01](https://github.com/user-attachments/assets/724af97c-ac95-4821-9a1d-4fe1f1275b54)
 
-![02](https://github.com/user-attachments/assets/5008cbdf-d509-40b0-a1f0-336f910878a0)
-
+![02](https://github.com/user-attachments/assets/2573bee4-ed22-48ed-9c99-cddad217dcab)
 
 ____________________________________________________________________
 _____________________________________________________________________
