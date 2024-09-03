@@ -42,7 +42,6 @@ _______________________________________________________________________
 ___________________________________________________________________
 ![002](https://github.com/user-attachments/assets/430b00e3-43ca-4387-be91-28d4fa2d35ed)
 
-
 ________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regulation(EU)+!)](https://git.io/typing-svg)  
 
