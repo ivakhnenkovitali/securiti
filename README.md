@@ -4,6 +4,10 @@ Explore the different types of threats to information and information systems, a
 _________________________________________________________________________________
 ![cyber-security-courses](https://github.com/user-attachments/assets/702a7a80-d908-4844-bc2f-ea28d97bc028)
 ________________________________________________________________________
+
+Aufgaben als IT-Sicherheitsbeauftragter
+
+
 ______________________________________________________________________
 Wirtschaftsspionage, Cyberkriminalität und Datenlecks werden im Zuge der Digitalisierung zu einer stetig wachsenden Gefahr. Viele Unternehmen, Organisationen und Behörden sind sich der Risiken bewusst und versuchen, entsprechende Vorkehrungen zu treffen. Dies ist die Aufgabe von IT-Sicherheitsbeauftragten, die sich mit verschiedenen Aspekten der IT-Sicherheit befassen. Sie verantworten die Erstellung und Umsetzung von Sicherheitskonzepten, um die Informationssicherheit im Unternehmen zu gewährleisten. Hierzu entwerfen sie spezielle Regeln, Richtlinien sowie Sicherheitsprotokolle und schulen Mitarbeiter der IT-Abteilung. Zu ihren Pflichten gehört auch die Überwachung und Dokumentation sicherheitsrelevanter Aktivitäten.
 
