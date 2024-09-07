@@ -5,6 +5,13 @@ ________________________________________________________________________________
 ![cyber-security-courses](https://github.com/user-attachments/assets/702a7a80-d908-4844-bc2f-ea28d97bc028)
 ________________________________________________________________________
 ______________________________________________________________________
+Wirtschaftsspionage, Cyberkriminalität und Datenlecks werden im Zuge der Digitalisierung zu einer stetig wachsenden Gefahr. Viele Unternehmen, Organisationen und Behörden sind sich der Risiken bewusst und versuchen, entsprechende Vorkehrungen zu treffen. Dies ist die Aufgabe von IT-Sicherheitsbeauftragten, die sich mit verschiedenen Aspekten der IT-Sicherheit befassen. Sie verantworten die Erstellung und Umsetzung von Sicherheitskonzepten, um die Informationssicherheit im Unternehmen zu gewährleisten. Hierzu entwerfen sie spezielle Regeln, Richtlinien sowie Sicherheitsprotokolle und schulen Mitarbeiter der IT-Abteilung. Zu ihren Pflichten gehört auch die Überwachung und Dokumentation sicherheitsrelevanter Aktivitäten.
+
+Bei der Analyse der Sicherheitssituation prüfen sie den Status quo, um sicherzustellen, dass keine Schwachstellen existieren. Sollten sie dennoch eine Sicherheitslücke entdecken, müssen sie schnellstmöglich handeln, um interne Systeme vor kriminellem Zugriff zu schützen. Darüber hinaus müssen sie darauf achten, dass das bestehende Konzept zur Cyber Security gesetzeskonform ist und dass auch neuere Vorschriften eingehalten werden.  IT Security Consultants agieren häufig auch als externe Dienstleister, welche die Geschäftsführung in Fragen der IT-Sicherheit beraten. Im Auftrag von Unternehmen analysieren sie das vorliegende Sicherheitskonzept, entwerfen Maßnahmen und beraten die Geschäftsführung bzw. die IT-Abteilung.
+
+
+
+______________________________________________________________________
 ![user](https://github.com/user-attachments/assets/569b0049-a5a4-47b5-9dcb-d80ab1b83b66)
 _______________________________________________________________________________
 ______________________________________________________________________________
