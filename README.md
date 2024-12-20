@@ -4,20 +4,29 @@ Explore the different types of threats to information and information systems, a
 _________________________________________________________________________________
 ![cyber-security-courses](https://github.com/user-attachments/assets/702a7a80-d908-4844-bc2f-ea28d97bc028)
 ________________________________________________________________________
-
 Aufgaben als IT-Sicherheitsbeauftragter
-
 ______________________________________________________________________
 Wirtschaftsspionage, Cyberkriminalität und Datenlecks werden im Zuge der Digitalisierung zu einer stetig wachsenden Gefahr. Viele Unternehmen, Organisationen und Behörden sind sich der Risiken bewusst und versuchen, entsprechende Vorkehrungen zu treffen. Dies ist die Aufgabe von IT-Sicherheitsbeauftragten, die sich mit verschiedenen Aspekten der IT-Sicherheit befassen. Sie verantworten die Erstellung und Umsetzung von Sicherheitskonzepten, um die Informationssicherheit im Unternehmen zu gewährleisten. Hierzu entwerfen sie spezielle Regeln, Richtlinien sowie Sicherheitsprotokolle und schulen Mitarbeiter der IT-Abteilung. Zu ihren Pflichten gehört auch die Überwachung und Dokumentation sicherheitsrelevanter Aktivitäten.
 
 Bei der Analyse der Sicherheitssituation prüfen sie den Status quo, um sicherzustellen, dass keine Schwachstellen existieren. Sollten sie dennoch eine Sicherheitslücke entdecken, müssen sie schnellstmöglich handeln, um interne Systeme vor kriminellem Zugriff zu schützen. Darüber hinaus müssen sie darauf achten, dass das bestehende Konzept zur Cyber Security gesetzeskonform ist und dass auch neuere Vorschriften eingehalten werden.  IT Security Consultants agieren häufig auch als externe Dienstleister, welche die Geschäftsführung in Fragen der IT-Sicherheit beraten. Im Auftrag von Unternehmen analysieren sie das vorliegende Sicherheitskonzept, entwerfen Maßnahmen und beraten die Geschäftsführung bzw. die IT-Abteilung.
-
-
-
 ______________________________________________________________________
 ![user](https://github.com/user-attachments/assets/569b0049-a5a4-47b5-9dcb-d80ab1b83b66)
 _______________________________________________________________________________
 ______________________________________________________________________________
+Так как же проверить, не заражен ли ваш смартфон?
+
+1. Если ваш телефон был какое-то время в чужих руках (даже 10 минут), то обязательно проверьте, нет ли чего нового на нем. Если нет новых приложений, это уже хорошо, но это не все, что нужно сделать.
+
+2. Проверьте установленные ранее приложения:
+
+Перейдите в настройки смартфона (в пункт «Разрешения приложений») и посмотрите, какие приложения имеют большое количество разрешений. Дело в том, что программа, под которую может маскироваться «Монокль», запрашивает огромное количество разрешений: она хочет и доступ к контактам и сообщениям, и иметь возможность записывать видео и звонки, и делать снимки экрана и т.д. Но самое опасное — такие программы запрашивают возможность устанавливать сторонние расширения, чтобы подгружать модули из сети. Если вдруг вы заметили какой-то софт, который имеет больше разрешений, чем ему объективно нужно для работы, то это повод забеспокоиться.
+Проверьте, как приложения расходуют батарею и интернет-трафик. Если вы не часто используете приложение, а оно почему-то очень сильно «жрет» батарею, то это тревожный признак. Сомнения должны возникнуть и в том случае, если приложение, не предназначенное для обмена информацией через интернет, потребляет много трафика.
+ 
+
+
+__________________________________________________________________________
+
+__________________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Phishing+!)](https://git.io/typing-svg)  
 ______________________________________________________________________________
 ______________________________________________________________________________
