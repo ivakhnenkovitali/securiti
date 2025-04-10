@@ -15,6 +15,19 @@ _______________________________________________________________________________
 ______________________________________________________________________________
 ![fgdgdf](https://github.com/user-attachments/assets/a482c304-5cfa-42c9-b6a2-8ede9b2983f3)
 
+_____________________________________________________________________________
+
+Alors, comment vérifier si votre smartphone est infecté ?
+
+Si votre téléphone a été entre les mains de quelqu’un d’autre pendant un certain temps (même 10 minutes), vérifiez bien s’il y a quelque chose de nouveau installé. S’il n’y a pas de nouvelles applications, c’est déjà bien, mais ce n’est pas tout ce qu’il faut faire.
+
+Vérifiez les applications déjà installées :
+
+Allez dans les paramètres du smartphone (dans la section « Autorisations des applications ») et voyez quelles applications ont un grand nombre d’autorisations. Le problème, c’est que les logiciels espions comme « Monocle » peuvent se faire passer pour des applications légitimes et demander un nombre excessif d’autorisations : accès aux contacts et messages, capacité à enregistrer des vidéos et appels, prendre des captures d’écran, etc. Mais le plus dangereux, c’est que ces programmes demandent la permission d’installer des extensions tierces pour télécharger des modules supplémentaires depuis Internet. Si vous remarquez une application qui a plus d’autorisations que nécessaire, c’est un motif d’inquiétude.
+
+Vérifiez la consommation de batterie et de données des applications. Si vous utilisez rarement une application, mais qu’elle consomme anormalement la batterie, c’est un signal d’alerte. Méfiez-vous aussi si une application non conçue pour échanger des données via Internet consomme beaucoup de trafic.
+
+
 
 _________________________________________________________________________
 Так как же проверить, не заражен ли ваш смартфон?
@@ -27,6 +40,40 @@ _________________________________________________________________________
 Проверьте, как приложения расходуют батарею и интернет-трафик. Если вы не часто используете приложение, а оно почему-то очень сильно «жрет» батарею, то это тревожный признак. Сомнения должны возникнуть и в том случае, если приложение, не предназначенное для обмена информацией через интернет, потребляет много трафика.
  
 __________________________________________________________________________
+Дык як жа праверыць, ці не заражоны ваш смартфон?
+
+Калі ваш тэлефон быў нейкі час у чужых руках (нават 10 хвілін), абавязкова праверце, ці не з’явілася чаго новага. Калі няма новых дадаткаў, гэта ўжо добра, але гэта яшчэ не ўсё, што трэба зрабіць.
+
+Праверце ўсталяваныя раней дадаткі:
+
+Перайдзіце ў налады смартфона (у пункт «Дазволы дадаткаў») і паглядзіце, якія дадаткі маюць вялікую колькасць дазволаў. Справа ў тым, што праграма, пад якую можа маскіравацца «Манокль», запрашае велізарную колькасць дазволаў: яна хоча і доступ да кантактаў і паведамленняў, і мець магчымасць запісваць відэа і званкі, і рабіць здымкі экрана і г.д. Але самае небяспечнае — такія праграмы запрашаюць магчымасць усталёўваць староннія пашырэнні, каб падгружаць модулі з сеціва. Калі раптам вы заўважылі нейкі софт, які мае больш дазволаў, чым яму аб’ектыўна трэба для працы, гэта прычына занепакоіцца.
+
+Праверце, як дадаткі выкарыстоўваюць батарэю і інтэрнэт-трафік. Калі вы не часта карыстаецеся дадаткам, а ён чамусьці вельмі моцна «жарэ» батарэю, гэта трывожны прыкмета. Сумненні павінны ўзнікнуць і ў тым выпадку, калі дадатак, не прызначаны для абмену інфармацыяй праз інтэрнэт, спажывае шмат трафіку.
+
+
+___________________________________________________________________________
+Wie kann man also überprüfen, ob Ihr Smartphone infiziert ist?
+
+Wenn Ihr Telefon für einige Zeit in fremden Händen war (selbst nur 10 Minuten), überprüfen Sie unbedingt, ob etwas Neues darauf installiert wurde. Wenn keine neuen Apps vorhanden sind, ist das schon gut, aber das ist nicht alles, was Sie tun müssen.
+
+Überprüfen Sie die bereits installierten Apps:
+
+Gehen Sie zu den Smartphone-Einstellungen (zum Punkt „App-Berechtigungen“) und prüfen Sie, welche Apps eine große Anzahl von Berechtigungen haben. Der Punkt ist, dass sich die Spionagesoftware „Monokel“ oft als harmlose App tarnt und extrem viele Berechtigungen anfordert: Sie möchte Zugriff auf Kontakte und Nachrichten, die Möglichkeit, Videos und Anrufe aufzuzeichnen, Screenshots zu machen usw. Am gefährlichsten ist jedoch, dass solche Programme die Installation von Drittanbieter-Erweiterungen verlangen, um Module aus dem Internet nachzuladen. Wenn Sie eine App bemerken, die mehr Berechtigungen hat, als sie eigentlich benötigt, ist das ein Grund zur Sorge.
+
+Überprüfen Sie, wie Apps den Akku und Internetdaten verbrauchen. Wenn Sie eine App selten nutzen, sie aber ungewöhnlich viel Akku verbraucht, ist das ein Warnsignal. Zweifel sollten auch aufkommen, wenn eine App, die nicht für den Datenaustausch über das Internet gedacht ist, viel Datenvolumen verbraucht.
+
+__________________________________________________________________________
+So how can you check if your smartphone is infected?
+
+If your phone has been in someone else’s hands for some time (even just 10 minutes), be sure to check if anything new has been installed. If there are no new apps, that’s good, but that’s not all you need to do.
+
+Check previously installed apps:
+
+Go to your smartphone settings (to the "App Permissions" section) and see which apps have a large number of permissions. The thing is, spyware like "Monocle" can disguise itself as a legitimate app and request an excessive number of permissions: it wants access to contacts and messages, the ability to record videos and calls, take screenshots, etc. But the most dangerous part is that such programs request permission to install third-party extensions to download additional modules from the internet. If you notice any software that has more permissions than it objectively needs to function, that’s a reason to be concerned.
+
+Check how apps consume battery and internet data. If you rarely use an app, but it’s draining your battery unusually fast, that’s a red flag. You should also be suspicious if an app not designed for internet communication consumes a lot of data.
+_________________________________________________________________________
+
 
 __________________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Phishing+!)](https://git.io/typing-svg)  
