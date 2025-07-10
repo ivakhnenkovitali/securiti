@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Copyright (R) 2024,   
 =======
-Copyright (R) 2025,
+Copyright (R) 2024,
 >>>>>>> vitali/master
 All rights reserved.
 
