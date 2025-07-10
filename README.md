@@ -129,7 +129,7 @@ ______________________________________________________________________________
 _____________________________________________________________________________
 _______________________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Защита???+персональных+данных+!)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regulation(СССР)+!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regulation(СССР)+РБ+!)](https://git.io/typing-svg)  
 _______________________________________________________________________________
 ____________________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+hoster.+by+!)](https://git.io/typing-svg) 
