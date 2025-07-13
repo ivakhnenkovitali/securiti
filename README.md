@@ -53,7 +53,9 @@ _______________________________________________________________________________
 _____________________________________________________________
 ![Deutsch](https://github.com/user-attachments/assets/82920589-a03a-45f9-a36a-d69bbe6f1442)
 __________________________________________________________________________________
-![jjjj](https://github.com/user-attachments/assets/92d64209-ba5c-4052-818f-5ff45a6386b5)
+![jjjj](https://github.com/user-attachments/assets/92d64209-ba5c-4052-818f-5ff45a6386b5) 
+___________________________________________________________________
+<img width="1040" height="793" alt="paroli" src="https://github.com/user-attachments/assets/989697c4-f42e-4bb1-8eca-dee354ace912" />
 
 ____________________________________________________________________________________
 ![Englich](https://github.com/user-attachments/assets/6bb79a8f-ba75-4471-b95a-a747a924463a)  
