@@ -55,7 +55,8 @@ _____________________________________________________________
 __________________________________________________________________________________
 ![jjjj](https://github.com/user-attachments/assets/92d64209-ba5c-4052-818f-5ff45a6386b5) 
 ___________________________________________________________________
-<img width="1040" height="793" alt="paroli" src="https://github.com/user-attachments/assets/989697c4-f42e-4bb1-8eca-dee354ace912" />
+![впвпвпв](https://github.com/user-attachments/assets/242fa76c-3cf8-48ea-a525-54f817a7cd59)
+
 
 ____________________________________________________________________________________
 ![Englich](https://github.com/user-attachments/assets/6bb79a8f-ba75-4471-b95a-a747a924463a)  
