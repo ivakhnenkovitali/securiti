@@ -252,7 +252,8 @@ _______________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+АЛЬФА+БАНК+!)](https://git.io/typing-svg) 
 
 
-![Банк](https://github.com/user-attachments/assets/3abdf2c1-4829-41c9-9a96-a9f5b315e48d)
+
+![01](https://github.com/user-attachments/assets/c8d95c01-5776-4492-94ee-a3a3dce9ec94)
 
 
 ![01](https://github.com/user-attachments/assets/724af97c-ac95-4821-9a1d-4fe1f1275b54)
