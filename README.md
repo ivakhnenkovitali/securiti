@@ -205,7 +205,7 @@ ________________________________________________________________________________
 ________________________________________________________________
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Deliberate+User+error+!)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regulation(СССР)+!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regulation(СССР)+РБ+!)](https://git.io/typing-svg) 
 
 ![01](https://github.com/user-attachments/assets/f9b24ea7-0fad-496c-9f4f-e666ee639639)
 ![02](https://github.com/user-attachments/assets/92ea5a5b-7f39-46be-a6c3-250ec2c6be56)
@@ -233,7 +233,8 @@ ___________________________________________________________________________
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+hoster.+by)](https://git.io/typing-svg)  
 
-![hosterby](https://github.com/user-attachments/assets/a5631de5-21a9-4732-ab5b-83701b90ddde)
+[сайт.docx](https://github.com/user-attachments/files/21322338/default.docx)
+
 
 
 
