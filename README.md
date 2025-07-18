@@ -233,7 +233,8 @@ ___________________________________________________________________________
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+hoster.+by)](https://git.io/typing-svg)  
 
-[zapros.pdf](https://github.com/user-attachments/files/21322415/zapros.pdf)
+
+![zapros](https://github.com/user-attachments/assets/ce463346-43a5-4b1e-8557-ac2fa1597c70)
 
 _____________________________________________________________
 
