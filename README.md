@@ -233,9 +233,10 @@ ___________________________________________________________________________
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AUDIT+hoster.+by)](https://git.io/typing-svg)  
 
-[сайт.docx](https://github.com/user-attachments/files/21322338/default.docx)
 
 
+[сайт запрос.pdf](https://github.com/user-attachments/files/21322376/default.pdf)
+_____________________________________________________________
 
 
 ![01](https://github.com/user-attachments/assets/95b32d44-f638-4e03-9683-23037c52d93e)
