@@ -48,7 +48,7 @@ Bei der Analyse der Sicherheitssituation prüfen sie den Status quo, um sicherzu
 ______________________________________________________________________
 ![user](https://github.com/user-attachments/assets/569b0049-a5a4-47b5-9dcb-d80ab1b83b66)
 _______________________________________________________________________________
-<img width="600" height="384" alt="папв" src="https://github.com/user-attachments/assets/0c48841f-8abd-4dd2-917a-71a14ae9d11e" />
+
 
 _____________________________________________________________
 ![Deutsch](https://github.com/user-attachments/assets/82920589-a03a-45f9-a36a-d69bbe6f1442)
