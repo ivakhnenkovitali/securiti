@@ -48,6 +48,7 @@ Bei der Analyse der Sicherheitssituation prüfen sie den Status quo, um sicherzu
 ______________________________________________________________________
 ![user](https://github.com/user-attachments/assets/569b0049-a5a4-47b5-9dcb-d80ab1b83b66)
 _______________________________________________________________________________
+<img width="1024" height="1536" alt="parich" src="https://github.com/user-attachments/assets/dcbc99e6-f995-47d3-951a-3f4febd86200" />
 
 
 _____________________________________________________________
