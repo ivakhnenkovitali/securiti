@@ -31,7 +31,6 @@ BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY
 WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF TH
 
-
 _______________________________________________________________________________________________
 ___________________________________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=What+is+cybersecurity+?)](https://git.io/typing-svg)  Information security 
